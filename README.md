@@ -5,6 +5,7 @@ Live Website: https://michaelwealth.vercel.app
 A modern, responsive personal portfolio website showcasing my professional profile, technical capabilities, selected projects, and digital solutions.
 
 Overview
+
 This project is my personal portfolio website, developed to establish a professional online presence and showcase my skills, experience, and practical work.
 
 The website provides recruiters, potential employers, collaborators, and clients with an overview of my background, technical competencies, projects, and contact information.
